@@ -1,4 +1,22 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=32&duration=2800&pause=800&color=1DA1F2&center=true&vCenter=true&width=700&lines=안녕하세요!+김혜연입니다.;)](https://git.io/typing-svg)
+---
+
+## 👋 About me 
+💼 교내활동 - 컴퓨터공학과 학회 멤버! & 🥔감자 동아리에서 활동 중!
+
+📚 공부 - React, HTML, CSS, JavaScript . . .
+
+🎯 목표 - 풀스택 개발자 되기!💪
+
+---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+---
+
+![Hyaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyaeyeon&theme=nightowl&show_icons=true)
+
 
 <!--
 **hyaeyeon/hyaeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
