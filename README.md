@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=32&duration=2800&pause=800&color=1DA1F2&center=true&vCenter=true&width=700&lines=안녕하세요!+김혜연입니다.;)](https://git.io/typing-svg)
----
-
 ## 👋 About me 
 💼 교내활동 - 컴퓨터공학과 학회 멤버! & 🥔감자 동아리에서 활동 중!
 
